@@ -1,0 +1,8 @@
+#mainPage {
+    display: block;
+}
+
+
+#loginPage , #branches , #booking , #profile , #register , #history{
+    display: none;
+}
